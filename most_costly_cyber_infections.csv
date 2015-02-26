@@ -1,0 +1,15 @@
+Sources:,http://www.insure.com/blog/the-12-costliest-computer-viruses-ever.html,http://www.hostingreviews.com/top-12-most-fd-up-computer-viruses-of-all-time/,http://www.investopedia.com/financial-edge/0512/10-of-the-most-costly-computer-viruses-of-all-time.aspx,http://uk.norton.com/top-5-viruses/promo,http://en.wikipedia.org/wiki/Conficker
+year,name,type,origin,cpus_infected,cost
+1988,Morris,worm,USA,6000,10000000
+2003,Blaster,worm,Unknown,200000,320000000
+2004,Sasser,worm,Germany,2000000,1000000000
+2001,Nimda,virus,China,160000,635000000
+2003,SQL Slammer,worm,Unknown,425000,1200000000
+2001,SirCam,virus,Mexico,100000,1000000000
+1999,Melissa,virus,USA,100000,1200000000
+2001,CodeRed,virus,China,1000000,2600000000
+2007,Conficker,worm,Ukraine or China,1200000,9100000000
+2000,ILOVEYOU,virus,Philippines,500000,1500000000
+2003,SoBig.F,worm,Unknown,2000000,37100000000
+2004,MyDoom,worm,Russia,2000000,38500000000
+1998,CIH Virus,virus,Taiwan,1000000,20000000
